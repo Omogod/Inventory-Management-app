@@ -1,3 +1,7 @@
+## Development server
+
+Run `npm start` for a dev server. Navigate to `http://localhost:5000/`. The application will start if you command.
+
 Project Structure
 ----------------
 The project is structured as follows:
